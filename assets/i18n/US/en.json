@@ -1,0 +1,105 @@
+{
+  "login": {
+    "title": "Pentaco Automation",
+    "signup_link": "New to ng2-admin? Sign up!",
+    "username": "Username",
+    "password": "Password",
+    "sign_in": "Sign in",
+    "forgot_password": "Forgot password?",
+    "sign_from_app_text": "or Sign in with one click",
+    "share_on_facebook": "Share on Facebook",
+    "share_on_twitter": "Share on Twitter",
+    "share_on_google_plus": "Share on Google Plus"
+  },
+  "general": {
+    "akveo": "Akveo",
+    "home": "Home",
+    "forms": {
+      "option1": "Option 1"
+    },
+    "menu": {
+      "Admin": "Admin",
+      "Users": "Users",
+      "Rights": "Rights",
+      "Profile": "Profile",
+      "Credential":"Credential",
+      "Master": "Master",
+      "Vendor": "Vendor",
+      "Customer": "Customer",
+      "Category": "Category",
+      "Item": "Item",
+      "Project Info": "Project Info",
+      "Purchase": "Purchase",
+      "Indent": "Indent",
+      "PO Register": "PO Register",
+      "Pending PO": "Pending PO",
+      "Design": "Design",
+      "BOM": "BOM",
+      "GRN Details": "GRN Details",
+      "GRN": "GRN",
+      "Quality": "Quality",
+      "Stores": "Stores",
+      "GRN Chart": "GRN Chart",
+      "Stock By Value": "Stock By Value",
+      "Items to Issue": "Items to Issue",
+      "Issued Items": "Issued Items",
+      "WIP Items": "WIP Items",
+      "Manufacturing": "Manufacturing",
+      "Requisition": "Requisition",
+      "Delivery Challan": "Delivery Challan",
+      "Cost Chart": "Cost Chart"
+    },
+    "created_with": "Created with"
+  },
+  "dashboard": {
+    "acquisition_channels": "Acquisition Channels",
+    "users_by_country": "Users by Country",
+    "revenue": "Revenue",
+    "feed": "Feed",
+    "todo_list": "To Do List",
+    "calendar": "Calendar",
+    "new_visits": "New Visits",
+    "purchases": "Purchases",
+    "active_users": "Active Users",
+    "returned": "Returned",
+    "popular_app": {
+      "super_app": "Super App",
+      "most_popular_app": "Most Popular App",
+      "total_visits": "Total Visits",
+      "new_visits": "New Visits",
+      "sales": "Sales"
+    },
+    "todo": {
+      "task_todo": "Task to do.."
+    },
+    "traffic_chart": {
+      "view_total": "Views Total"
+    }
+  },
+  "tree_view": {
+    "title": "basic",
+    "programming": "Programming languages by programming paradigm",
+    "oop": "Object-oriented programming",
+    "java": "Java",
+    "c_plus_plus": "C++",
+    "c_sharp": "C#",
+    "prototype": "Prototype-based programming",
+    "java_script": "JavaScript",
+    "coffee_script": "CoffeeScript",
+    "lua": "Lua"
+  },
+  "chart": {
+    "lines": "Lines",
+    "bars": "Bars",
+    "simple_line_chart": "Simple line chart",
+    "line_chart": "Line chart with area",
+    "bi_polar_line_chart": "Bi-polar line chart with area only",
+    "simple_bar_chart": "Simple bar chart",
+    "multi_line_labels_bar_chart": "Multi-line labels bar chart",
+    "stacked_bar_chart": "Stacked bar chart",
+    "pies_and_donuts": "Pies & Donuts",
+    "simple_pie": "Simple Pie",
+    "pie_with_labels": "Pie with labels",
+    "donut": "Donut"
+  }
+}
